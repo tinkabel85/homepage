@@ -253,13 +253,13 @@ body {
 }
 
 .contact {
-    width: 90%;
+    width: 80%;
     margin: auto;
-    height: 70vh;
+    height: 60vh;
     padding: 20px;
     background: no-repeat url("./images/contacts.jpg");
     background-size: cover;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .contact_script {
