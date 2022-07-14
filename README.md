@@ -1,4 +1,6 @@
-<h1 align="center"><Homepage</h1>
+<div align="center">
+## Homepage
+</div>
 ---
 ### About The Project
 
