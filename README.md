@@ -28,14 +28,27 @@ Here I am explaining my motivation to switch my career to software development.
 ![about page](https://i.ibb.co/zH4Sj83/About-me-2022-07-14-13-51-25.png)
 
 #### Learning Path
-Is created to list all the courses and learning material I used while studied web development.
+Contains the list of all the courses and learning material I used while studying web development.
 
 ![learning path page](https://i.ibb.co/HtS9yfS/My-Learning-Path.png)
 
 #### Getting in Touch
-Provides my contact details.
-
-![learning path page](https://i.ibb.co/y8PDSnY/Getting-in-Touch.png)
+This page rovides my contact details.
 ___
 
 ### Getting started
+1. clone the repo
+```bash
+$ git clone https://github.com/tinkabel85/homepage.git
+```
+2. cd in the repo
+```bash
+$ cd homepage
+```
+3. running on-demand
+```bash
+$ npx http-server
+```
+___
+<sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
+</div>
