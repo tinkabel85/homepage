@@ -1,6 +1,6 @@
-<div align="center">
+
 ## Homepage
-</div>
+
 ---
 ### About The Project
 
