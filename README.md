@@ -33,7 +33,7 @@ Contains the list of all the courses and learning material I used while studying
 ![learning path page](https://i.ibb.co/HtS9yfS/My-Learning-Path.png)
 
 #### Getting in Touch
-This page rovides my contact details.
+This page provides my contact details.
 ___
 
 ### Getting started
@@ -50,5 +50,6 @@ $ cd homepage
 $ npx http-server
 ```
 ___
+<div align="center">
 <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
 </div>
