@@ -1,4 +1,4 @@
-## Homepage
+<h1 align="center"><Homepage</h1>
 ---
 ### About The Project
 
@@ -23,9 +23,7 @@ Contains the introduction and countdown timer till desired job offer.
 ![main page](https://i.ibb.co/6X2cF3L/homepage-main.png) 
 
 #### About me
-Here I am explaining my motivation to switch my career to software development. 
-
-![about page](https://i.ibb.co/zH4Sj83/About-me-2022-07-14-13-51-25.png)
+At this page I am explaining my motivation to switch my career to software development. 
 
 #### Learning Path
 Contains the list of all the courses and learning material I used while studying web development.
