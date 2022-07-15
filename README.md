@@ -36,20 +36,30 @@ Contains the list of all the courses and learning material I used while studying
 My contact details (i.e. social media profiles) are listed here.
 ___
 
-### Getting started
-1. clone the repo
+###  Getting Started 
+
+#### `Step 1` - clone the repo
+
 ```bash
 $ git clone https://github.com/tinkabel85/homepage.git
 ```
-2. cd in the repo
+
+#### `Step 2` - cd in the repo
+
 ```bash
 $ cd homepage
 ```
-3. running on-demand
+
+#### `Step 3` - run application
+
 ```bash
 $ npx http-server
 ```
-___
+
+Now you can visit http://localhost:8080 to view your server.
+
+
+---
 <div align="center">
-<sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
+    <sub>If you found a bug or some improvments, feel free to raise an issue and send a PR!</sub>
 </div>
