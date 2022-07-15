@@ -1,13 +1,13 @@
 
-## Homepage
+# Homepage
 
 ---
 ### About The Project
 
 
-This is a simple web-application built on pure html/css/javascript.  
-Its main idea is to share some information about me, my decision to make a career switch into software development and my learning path towards Front-End Developer career, while practicing my skills in front-end technologies. 
-Since I chose web-development, I mostly focused on CSS/HTML, Javascript. ReactJS is also on my radar, however not covered on this app. 
+This is a simple web-application built with pure html/css/javascript.  
+Its main idea is to share essential information about me, my decision to make a career switch into software development and my learning path towards Front-End Developer career as well as resources I used (and still using) during this journey. 
+Since I'm interested in web-development and frontend, I mostly focused on CSS/HTML, Javascript. ReactJS is also on my radar, however not covered in this app. 
 
 ---
 ### Built With
@@ -20,20 +20,20 @@ Since I chose web-development, I mostly focused on CSS/HTML, Javascript. ReactJS
 ### Project Structure
 
 #### Home page
-Contains the introduction and countdown timer till desired job offer. 
+Contains the introduction and countdown timer till desired job offer (in Javascript). 
 
-![main page](https://i.ibb.co/6X2cF3L/homepage-main.png) 
+![main page](https://i.ibb.co/XxfysHK/Homepage-1.png) 
 
 #### About me
-At this page I am explaining my motivation to switch my career to software development. 
+This page gives some information about the author (me). 
 
 #### Learning Path
 Contains the list of all the courses and learning material I used while studying web development.
 
-![learning path page](https://i.ibb.co/HtS9yfS/My-Learning-Path.png)
+![learning path page](https://i.ibb.co/bH5czc8/Learning-Path.png)
 
 #### Getting in Touch
-This page provides my contact details.
+My contact details (i.e. social media profiles) are listed here.
 ___
 
 ### Getting started
